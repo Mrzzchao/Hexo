@@ -1,2 +1,2 @@
 # Hexo
-+## My Blog
++ My Blog
