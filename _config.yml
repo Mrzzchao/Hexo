@@ -4,8 +4,8 @@
 
 # Site
 title: Mrzzchao
-subtitle: Go or Die
-description: Mrzzchao是一个基于Github和Hexo的静态Blog，希望用简单而清晰的写作方式Markdown分享自己的心得体会。
+subtitle: Less Is More
+description: 御风而行，逆流而上
 author: MChao
 language: zh-Hans
 email: mrzzhichao@gmail.com
@@ -99,3 +99,12 @@ deploy:
   type: git
   repository: git@github.com:Mrzzchao/Mrzzchao.github.io.git
   branch: master
+  
+# 百度分享服务
+baidushare: true
+
+# 多说分享服务
+duoshuo_share: true
+
+# 谷歌分析
+google_analytics: UA-76508124-1

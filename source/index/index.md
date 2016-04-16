@@ -29,11 +29,12 @@ comments: false
 - [Atom 编辑器快捷键列表汇总整理](http://www.iplaysoft.com/item/atom-shortcuts)
 - [WebStorm快捷键操作大全](http://helloweb.wang/jingyan~jiqiao/491.html)
 
-#### gulp
+#### Gulp
 - [Gulp开发教程](http://www.w3ctech.com/topic/134)
 - [Gulp官网中文](http://www.gulpjs.com.cn/)
 
 #### Hexo
+- [Hexo文档](https://hexo.io/zh-cn/docs/)
 - [如何搭建一个独立博客——简明Github Pages与Hexo教程](http://www.jianshu.com/p/05289a4bc8b2)
 - [godaddy域名商](https://sg.godaddy.com/)
 - [Hexo-Next主题](http://theme-next.iissnan.com/getting-started.html)
