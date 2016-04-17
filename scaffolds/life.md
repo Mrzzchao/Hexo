@@ -1,6 +1,6 @@
 ---
 title: {{ title }}
 date: {{ date }}
-categories: Ëæ±Ê
+categories: { Ëæ±Ê }
 tags:
 ---

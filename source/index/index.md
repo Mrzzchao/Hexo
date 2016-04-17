@@ -7,8 +7,13 @@ comments: false
 # 生活
 - [如何挑选一双适合自己的跑鞋](http://bbs.hupu.com/10316864.html)
 
-# 前端
+# 社交
+- [Instagram](https://www.instagram.com/)：一个图片天堂的社交平台
+- [IFTTT](https://ifttt.com/recipes)：链接社交平台
+- [IFTTT教程](http://sspai.com/25270)：一个强大，神奇的东西，应该多学学
+- [DropBox](https://www.dropbox.com/)：存储照片、文件
 
+# 前端
 #### HTML
 - [HTML 5的革新之一：语义化标签一节元素标签](http://www.html5jscss.com/html5-semantics-section.html)
 
@@ -36,5 +41,6 @@ comments: false
 #### Hexo
 - [Hexo文档](https://hexo.io/zh-cn/docs/)
 - [如何搭建一个独立博客——简明Github Pages与Hexo教程](http://www.jianshu.com/p/05289a4bc8b2)
+- [阿里云](https://www.aliyun.com/)
 - [godaddy域名商](https://sg.godaddy.com/)
 - [Hexo-Next主题](http://theme-next.iissnan.com/getting-started.html)

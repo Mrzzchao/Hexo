@@ -19,10 +19,10 @@ tags: Triangle
     border-bottom: 100px solid red;
 }
 ```
+<!--more-->
 
 ## Triangle-Down
 ![Triangle-Down](http://7xrul1.com1.z0.glb.clouddn.com/triangle-down.jpg "triangle-down")
-<!--more-->
 ```css
 #triangle-down {
     width: 0;

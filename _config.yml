@@ -4,7 +4,7 @@
 
 # Site
 title: Mrzzchao
-subtitle: Less Is More
+subtitle: Less is More
 description: 御风而行，逆流而上
 author: MChao
 language: zh-Hans
@@ -76,6 +76,11 @@ disqus_shortname: mchao
 Plugins:
 - hexo-generator-feed
 - hexo-generator-sitemap
+- hexo-generator-baidu-sitemap
+
+baidusitemap:
+    path: baidusitemap.xml
+
 
 #sitemap
 sitemap:
