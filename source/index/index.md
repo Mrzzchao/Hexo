@@ -41,6 +41,7 @@ comments: false
 #### Hexo
 - [Hexo文档](https://hexo.io/zh-cn/docs/)
 - [如何搭建一个独立博客——简明Github Pages与Hexo教程](http://www.jianshu.com/p/05289a4bc8b2)
+- [一步步在GitHub上创建博客主页](http://www.pchou.info/web-build/2013/01/03/build-github-blog-page-01.html)
 - [阿里云](https://www.aliyun.com/)
 - [godaddy域名商](https://sg.godaddy.com/)
 - [Hexo-Next主题](http://theme-next.iissnan.com/getting-started.html)

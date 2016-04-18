@@ -113,3 +113,6 @@ duoshuo_share: true
 
 # 谷歌分析
 google_analytics: UA-76508124-1
+
+# 协议
+creative_commons: by-nc-sa
